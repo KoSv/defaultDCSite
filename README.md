@@ -1,8 +1,9 @@
-# default docker compose wordpress site yml file.
+# simple helper
 
-use when init new wordpress docker
+### my default docker compose wordpress site yml file.
 
-## change 
+
+just change 
 ```
 container_name: <NAME>
 ```
